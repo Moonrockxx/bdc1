@@ -14,6 +14,8 @@
     font-weight: bold;
 }
 
+
+
 /*Séparateur*/
 .separateur {
     width: 80%;
@@ -40,6 +42,11 @@
 }
 
 /*Mise en forme des articles*/
+
+#ctnr_art h3 {
+    font-size: 26px;
+}
+
 #ctnr_art {
     width: 95%;
     margin: 0 auto;
