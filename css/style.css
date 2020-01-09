@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial";
+    text-decoration: none;
+}
+
+/*Mise en forme du header*/
+#box1 {
+    padding-top: 30px;
+}
+
+#nom_prenom {
+    font-weight: bold;
+}
+
+/*Séparateur*/
+.separateur {
+    width: 80%;
+    height: 5px;
+    background-color: #8798AD;
+    margin: 0 auto;
+}
+
+/*Mise en forme de la grande image*/
+#grde_img {
+    padding-top: 25px;
+    height: 100%;
+    width: 100%;
+}
+
+/*Mise en forme de la boîte titre article*/
+#box2 {
+    width: 100%;
+    height: 100px;
+}
+
+#titre_projet {
+    padding: 30px 30px 30px 0;
+}
+
+/*Mise en forme des articles*/
+#ctnr_art {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#art {
+    margin-bottom: 50px;
+}
+
+#img_art {
+    width: 100%;
+    height: auto;
+}
+
+#titre_art {
+    padding: 15px 15px 15px 0px;
+}
+
+.btn_projet {
+    background-color: #484e53;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+
